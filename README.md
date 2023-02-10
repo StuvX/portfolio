@@ -14,6 +14,6 @@ Grasshopper files, should be opened with Rhino 7.
 
 * wicker.gh: an early iteration of a woven structure intended to capture dew in the desert.
 
-* peñaTensegrity.gh definition to form the tensegrity structure (based on thesis of Diana Peña), uses Kangaroo Physics for form finding. Dimensions were used for constructing a tensegrity structure at Meredith Music Festival, see FIGURE
+* peñaTensegrity.gh definition to form the tensegrity structure (based on thesis of Diana Peña), uses Kangaroo Physics for form finding. Dimensions were used for constructing a tensegrity structure at Meredith Music Festival, (figure below)
 
-![image](https://github.com/StuvX/portfolio/blob/main/assets/IMG_3440.JPG)
+<img src = "https://github.com/StuvX/portfolio/blob/main/assets/IMG_3440.JPG" alt="tensegrity structure" width="200"/>
