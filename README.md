@@ -16,9 +16,10 @@ Grasshopper files, should be opened with Rhino 7.
 
 * wicker.gh: an early iteration of a woven structure intended to capture dew in the desert.
 
-* peñaTensegrity.gh: definition to form the tensegrity structure (based on thesis of Diana Peña), uses Kangaroo Physics for form finding. Dimensions were used for constructing a tensegrity structure at Meredith Music Festival, (photo below)
+* peñaTensegrity.gh: definition to form the tensegrity structure [based on thesis of Diana Peña](https://upcommons.upc.edu/handle/2117/94685), uses Kangaroo Physics for form finding. Dimensions were used for constructing a tensegrity structure at Meredith Music Festival, (photo below)
 
-<img src = "https://github.com/StuvX/portfolio/blob/main/assets/IMG_3440.JPG" alt="tensegrity structure" width="480" style="float:middle"/>
+<!-- ![tensegrity structure](assets/IMG_3440.JPG?raw=true) -->
+<img src = "assets/IMG_3440.JPG" alt="tensegrity structure" width="480" align="middle"/>
 
 * funnelFinal.gh: used to form the futuristic structure for the Anima submission to the IAAC *Design for Biocities* competition in 2022.
 
@@ -26,4 +27,4 @@ Grasshopper files, should be opened with Rhino 7.
 several scripts written in rhinopython to generate geometries.
 
 ### deep learning
-* [SpotRust](https://github.com/StuvX/SpotRust]): the repository for the Bayesian deep learning corrosion detection model, includes custom Bayesian layers and loss functions.
+* [SpotRust](https://github.com/StuvX/SpotRust): the repository for the Bayesian deep learning corrosion detection model, includes custom Bayesian layers and loss functions.
