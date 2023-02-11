@@ -15,12 +15,12 @@ Grasshopper files, should be opened with Rhino 7.
 * peñaTensegrity.gh: definition to form the tensegrity structure based on [thesis of Diana Peña](https://upcommons.upc.edu/handle/2117/94685), uses Kangaroo Physics for form finding. Dimensions were used for constructing a tensegrity structure at Meredith Music Festival, (photo below)
 
 <p align="center">
-  <img src = "assets/tensegrity3.jpeg" width="240"
+  <img src = "assets/tensegrity3.jpeg" width="200"
   align="middle"/>
-  <img src = "assets/tensegrity1.JPG" alt="tensegrity structure" width="240" align="middle"/>
-  <img src = "assets/tensegrity2.jpeg" width="240"
+  <img src = "assets/tensegrity1.JPG" alt="tensegrity structure" width="200" align="middle"/>
+  <img src = "assets/tensegrity2.jpeg" width="200"
   align="middle"/>
-  <img src = "assets/tensegrity4.jpeg" width="240"
+  <img src = "assets/tensegrity4.jpeg" width="200"
   align="middle"/>
 </p>
 
