@@ -19,7 +19,9 @@ Grasshopper files, should be opened with Rhino 7.
 * peñaTensegrity.gh: definition to form the tensegrity structure [based on thesis of Diana Peña](https://upcommons.upc.edu/handle/2117/94685), uses Kangaroo Physics for form finding. Dimensions were used for constructing a tensegrity structure at Meredith Music Festival, (photo below)
 
 <!-- ![tensegrity structure](assets/IMG_3440.JPG?raw=true) -->
-<img src = "assets/IMG_3440.JPG" alt="tensegrity structure" width="480" align="middle"/>
+<p align="center">
+  <img src = "assets/IMG_3440.JPG" alt="tensegrity structure" width="480" align="middle"/>
+</p>
 
 * funnelFinal.gh: used to form the futuristic structure for the Anima submission to the IAAC *Design for Biocities* competition in 2022.
 
